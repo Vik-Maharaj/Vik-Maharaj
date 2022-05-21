@@ -8,7 +8,7 @@
 
 <br />
 
-<h2 align="center">My selected projects 💻</h2>
+<h2 align="center">My Selected Projects 💻</h2>
 <br />
 
 
@@ -41,7 +41,7 @@
 
 <br />
 
-<h2 align="center">About me</h2>
+<h2 align="center">About Me</h2>
 <br />
 
 
