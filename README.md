@@ -49,7 +49,7 @@
 
 <br />
 <p>
-<h3 align="center"> Languages and Tools</h3>
+<h2 align="center"> Languages and Tools</h2>
 </p>
 
 <br />
