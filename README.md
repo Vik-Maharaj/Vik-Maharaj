@@ -8,23 +8,23 @@
 
 <p align="center">
   <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio"><img width="400" src="src/thumbnail-01.png" />
-  <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-02.png?raw=true" />
+  <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="src/thumbnail-02.png" />
  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=vik-maharaj-web-portfolio&theme=default_repocard" />
 </a>
   <a href="https://github.com/Vik-Maharaj/fruitbook">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=fruitbook&theme=default_repocard" />
 </a>
-  <a href="https://github.com/Vik-Maharaj/employee-tracker"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-03.png?raw=true" />
-  <a href="https://github.com/Vik-Maharaj/team-profile-generator"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-04.png?raw=true" />
+  <a href="https://github.com/Vik-Maharaj/employee-tracker"><img width="400" src="src/thumbnail-03.png" />
+  <a href="https://github.com/Vik-Maharaj/team-profile-generator"><img width="400" src="src/thumbnail-04.png" />
   <a href="https://github.com/Vik-Maharaj/employee-tracker">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=employee-tracker&theme=default_repocard" />
 </a>
 <a href="https://github.com/Vik-Maharaj/team-profile-generator">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=team-profile-generator&theme=default_repocard" />
 </a>
-  <a href="https://github.com/Vik-Maharaj/code-quiz"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-05.png?raw=true" />
-  <a href="https://github.com/Vik-Maharaj/weather-dashboard"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-06.png?raw=true" />
+  <a href="https://github.com/Vik-Maharaj/code-quiz"><img width="400" src="src/thumbnail-05.png" />
+  <a href="https://github.com/Vik-Maharaj/weather-dashboard"><img width="400" src="src/thumbnail-06.png" />
   <a href="https://github.com/Vik-Maharaj/code-quiz">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=code-quiz&theme=default_repocard" />
 </a>
