@@ -1,10 +1,4 @@
-<p>
-  <h1 align="center"><b>Hi there, I'm Vik</h1>
-</p>
-
-<br />
-
-<p align="center">Full stack web developer since, well, now.</p>
+![Vik's Team Profile Generator Usage Example Video](src/vkm-header-banner-img-ver1.0.png)
 
 <br />
 
@@ -13,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-01.png?raw=true" />
+  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio"><img width="400" src="src/thumbnail-01.png" />
   <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="https://github.com/Vik-Maharaj/Vik-Maharaj/blob/main/src/thumbnail-02.png?raw=true" />
  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=vik-maharaj-web-portfolio&theme=default_repocard" />
@@ -40,16 +34,8 @@
 </p>
 
 <br />
-
-<h2 align="center">About Me</h2>
-<br />
-
-
-![Vik's Team Profile Generator Usage Example Video](src/employee-tracker-initialize-database-example.gif)
-
-<br />
 <p>
-<h2 align="center"> Languages and Tools</h2>
+<h2 align="center"> Languages and Tools Used</h2>
 </p>
 
 <br />
