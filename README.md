@@ -2,6 +2,8 @@
 
 <br />
 
+![Vik's Readme GIF](src/readme-gif-ver1.0.gif)
+
 <h2 align="center">My Selected Projects 💻</h2>
 <br />
 
