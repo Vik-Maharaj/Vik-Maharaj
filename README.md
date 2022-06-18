@@ -9,6 +9,14 @@
 
 
 <p align="center">
+  <a href="https://github.com/Vik-Maharaj/Sweet-Nostalgia"><img width="400" src="src/thumbnail-07.png" />
+  <a href="https://github.com/Vik-Maharaj/tech-blog"><img width="400" src="src/thumbnail-08.png" />
+ <a href="https://github.com/Vik-Maharaj/Sweet-Nostalgia">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=Sweet-Nostalgia&theme=default_repocard" />
+</a>
+  <a href="https://github.com/Vik-Maharaj/tech-blog">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=tech-blog&theme=default_repocard" />
+</a>
   <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio"><img width="400" src="src/thumbnail-01.png" />
   <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="src/thumbnail-02.png" />
  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio">
