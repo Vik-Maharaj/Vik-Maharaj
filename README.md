@@ -18,17 +18,17 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=tech-blog&theme=default_repocard" />
 </a>
   <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio"><img width="400" src="src/thumbnail-01.png" />
-  <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="src/thumbnail-02.png" />
+  <a href="https://github.com/Vik-Maharaj/DEVise"><img width="400" src="src/thumbnail-09.png" />
  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=vik-maharaj-web-portfolio&theme=default_repocard" />
 </a>
+  <a href="https://github.com/Vik-Maharaj/DEVise">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=DEVise&theme=default_repocard" />
+</a>
+  <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="src/thumbnail-02.png" />
+  <a href="https://github.com/Vik-Maharaj/team-profile-generator"><img width="400" src="src/thumbnail-04.png" />
   <a href="https://github.com/Vik-Maharaj/fruitbook">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=fruitbook&theme=default_repocard" />
-</a>
-  <a href="https://github.com/Vik-Maharaj/employee-tracker"><img width="400" src="src/thumbnail-03.png" />
-  <a href="https://github.com/Vik-Maharaj/team-profile-generator"><img width="400" src="src/thumbnail-04.png" />
-  <a href="https://github.com/Vik-Maharaj/employee-tracker">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=employee-tracker&theme=default_repocard" />
 </a>
 <a href="https://github.com/Vik-Maharaj/team-profile-generator">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=team-profile-generator&theme=default_repocard" />
