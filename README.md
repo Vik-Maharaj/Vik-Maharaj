@@ -17,10 +17,10 @@
   <a href="https://github.com/Vik-Maharaj/tech-blog">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=tech-blog&theme=default_repocard" />
 </a>
-  <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio"><img width="400" src="src/thumbnail-01.png" />
+  <a href="https://github.com/Vik-Maharaj/react-portfolio"><img width="400" src="src/thumbnail-01.png" />
   <a href="https://github.com/Vik-Maharaj/DEVise"><img width="400" src="src/thumbnail-09.png" />
- <a href="https://github.com/Vik-Maharaj/vik-maharaj-web-portfolio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=vik-maharaj-web-portfolio&theme=default_repocard" />
+ <a href="https://github.com/Vik-Maharaj/react-portfolio">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=react-portfolio&theme=default_repocard" />
 </a>
   <a href="https://github.com/Vik-Maharaj/DEVise">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=DEVise&theme=default_repocard" />
