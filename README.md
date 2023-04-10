@@ -2,48 +2,6 @@
 
 <br />
 
-![Vik's Readme GIF](src/readme-gif-ver1.0.gif)
-
-<h2 align="center">My Selected Projects 💻</h2>
-<br />
-
-
-<p align="center">
-  <a href="https://github.com/Vik-Maharaj/Sweet-Nostalgia"><img width="400" src="src/thumbnail-07.png" />
-  <a href="https://github.com/Vik-Maharaj/tech-blog"><img width="400" src="src/thumbnail-08.png" />
- <a href="https://github.com/Vik-Maharaj/Sweet-Nostalgia">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=Sweet-Nostalgia&theme=default_repocard" />
-</a>
-  <a href="https://github.com/Vik-Maharaj/tech-blog">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=tech-blog&theme=default_repocard" />
-</a>
-  <a href="https://github.com/Vik-Maharaj/react-portfolio"><img width="400" src="src/thumbnail-01.png" />
-  <a href="https://github.com/Vik-Maharaj/DEVise"><img width="400" src="src/thumbnail-09.png" />
- <a href="https://github.com/Vik-Maharaj/react-portfolio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=react-portfolio&theme=default_repocard" />
-</a>
-  <a href="https://github.com/Vik-Maharaj/DEVise">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=DEVise&theme=default_repocard" />
-</a>
-  <a href="https://github.com/Vik-Maharaj/fruitbook"><img width="400" src="src/thumbnail-02.png" />
-  <a href="https://github.com/Vik-Maharaj/team-profile-generator"><img width="400" src="src/thumbnail-04.png" />
-  <a href="https://github.com/Vik-Maharaj/fruitbook">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=fruitbook&theme=default_repocard" />
-</a>
-<a href="https://github.com/Vik-Maharaj/team-profile-generator">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=team-profile-generator&theme=default_repocard" />
-</a>
-  <a href="https://github.com/Vik-Maharaj/code-quiz"><img width="400" src="src/thumbnail-05.png" />
-  <a href="https://github.com/Vik-Maharaj/weather-dashboard"><img width="400" src="src/thumbnail-06.png" />
-  <a href="https://github.com/Vik-Maharaj/code-quiz">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=code-quiz&theme=default_repocard" />
-</a>
-<a href="https://github.com/Vik-Maharaj/weather-dashboard">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Vik-Maharaj&repo=weather-dashboard&theme=default_repocard" />
-</a>
-</p>
-
-<br />
 <p>
 <h2 align="center"> Languages and Tools Used</h2>
 </p>
