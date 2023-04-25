@@ -1,4 +1,4 @@
-![Vik's Team Profile Generator Usage Example Video](src/vkm-header-banner-img-ver1.0.png)
+![Vik's Team Profile Generator Usage Example Video](src/vkm-header-banner-img-ver2.0.png)
 
 <br />
 
